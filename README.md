@@ -39,3 +39,23 @@ print(f'{a} + {b} + {c} любим анжуматься')
 orange_stocks = 1051
 print('Запасы апельсин на складе:', orange_stocks)
         
+Доп задание : 
+
+apt install python3.8
+
+cd/home
+
+touch hel.py
+
+vim hel.py
+
+IN VIM: press i to go to insert mode
+then add code : print('23.06.1941');print('Румыния', 'Италия', 'Венгрия', 'Финлядния', 'Хорватия', sep=', ');print ();print('09.06.1945');print();print('СССР')
+then press esc button and type :wq to save script.
+
+chmod 777 hel.py
+
+python 3.8 hel.py        
+
+
+
